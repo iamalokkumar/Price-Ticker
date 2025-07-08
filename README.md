@@ -13,5 +13,5 @@ This is a real-time BTC/USDT price tracker app built using React Native, Expo, a
 
 ```bash
 git clone https://github.com/iamalokkumar/Price-Ticker.git
-cd YOUR_REPO_NAME
+cd Price-Ticker
 npm install
